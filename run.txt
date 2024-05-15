@@ -1,0 +1,9 @@
+To run project:
+
+
+Ctrl + Shift + ` (grave key) = opn terminal
+cd forest-sim (that's the actual project)
+npm install
+npm run dev (does the thing)
+
+Press 'q' to quit
