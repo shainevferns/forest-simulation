@@ -1,0 +1,6 @@
+Created May 15th, 2024
+
+Using this as a way to put my materials in for future use (potentially):
+
+
+Basic Material: new THREE.MeshBasicMaterial( { color: "#00ffa0" } );

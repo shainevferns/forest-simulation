@@ -7,3 +7,5 @@ npm install
 npm run dev (does the thing)
 
 Press 'q' to quit
+
+To commit all changes, use the command: git add -A && git commit -m "Your Message"
